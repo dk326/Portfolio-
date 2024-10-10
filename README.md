@@ -3,7 +3,7 @@
 Explore my data portfolio, where I provide an overview of my work and projects within the data domain.
 
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
+- [Python](#Python)
 - [SQL](#sql)
 
 

@@ -26,6 +26,6 @@ Explore my data portfolio, where I provide an overview of my work and projects w
 
 # PowerBi
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
+| Project Link | Project Description | 
+|---|---|
 |🛡️[Cyber Security Incident Dashboard](https://github.com/dk326/Cyber-Security-Incident-Responses/tree/main)| Date 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. | 

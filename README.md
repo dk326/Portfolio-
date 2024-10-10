@@ -5,7 +5,7 @@ Explore my data portfolio, where I provide an overview of my work and projects w
 ## 📚 Table of Contents
 - [Python](#Python)
 - [SQL](#sql)
-
+- [PowerBi](#PowerBi)
 
 # Python
 

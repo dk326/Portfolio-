@@ -20,7 +20,7 @@ Explore my data portfolio, where I provide an overview of my work and projects w
 
 | Project Link | Area of Analysis | Completion Date | 
 |---|---|---|
-|🛍️ [RFM analysys](https://github.com/dk326/Product-performance-and-RFM/tree/main)| The project analyzed data from a hypothetical organization selling online news items to address business questions related to customer buying behaviors and product performance. Using the RFM model, customers were categorized into five segments. SQL queries were run on google's bigquery platform. | 2024 |
+|🛍️ [RFM analysis](https://github.com/dk326/Product-performance-and-RFM/tree/main)| The project analyzed data from a hypothetical organization selling online news items to address business questions related to customer buying behaviors and product performance. Using the RFM model, customers were categorized into five segments. SQL queries were run on google's bigquery platform. | 2024 |
 
 ***
 

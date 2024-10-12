@@ -9,10 +9,14 @@ Explore my data portfolio, where I provide an overview of my work and projects w
 
 # Python
 
-| Project Link | Completion Date | Tools | Project Description | 
+| Project Link | Completion Date | Libraries | Project Description | 
 |---|---|---|---|
-| 🦺 [Road Hazard Classification model](https://github.com/dk326/Identifying-Blackspots-Road-Hazards-/blob/main/Kobbekaduwa_Dumidu_s220478042_MIS710A1.ipynb)| 2023 | Pandas, Numpy, Matplotlib, Seaborn, Sklearn | The project was developed to classify road segments as blackspots or not. A blackspot is a section of a road where there is a liklihood of occuring of a fatal accident. A machine learning solution using a logistic regression algorithm was developed using a dataset provided by the client (real data provided by my university). The model developed can classify whether a road segment is a blackspot or not with high accuracy (91%) and precision (68%). The model looks at 8 key features of a road segment. |
+| 🍽️ [Models for Rating and Classifying Indian Restaurants](https://github.com/dk326/Restaurent-Rating-and-Clustering/blob/main/Kobbekaduwa_Dumidu_s220478042_MIS710A2_(1).ipynb)| 2023 | Pandas, Numpy, Matplotlib, Seaborn, Sklearn | The project was developed to classify road segments as blackspots or not. A blackspot is a section of a road where there is a liklihood of occuring of a fatal accident. A machine learning solution using a logistic regression algorithm was developed using a dataset provided by the client (real data provided by my university). The model developed can classify whether a road segment is a blackspot or not with high accuracy (91%) and precision (68%). The model looks at 8 key features of a road segment. |
+| 🦺 [Road Hazard Classification model](https://github.com/dk326/Identifying-Blackspots-Road-Hazards-/blob/main/Kobbekaduwa_Dumidu_s220478042_MIS710A1.ipynb)| 2023 | Pandas, Numpy, Matplotlib, Seaborn, Sklearn |This project, part of a machine learning assessment, analyzes a dataset of over 40,000 Indian restaurants to identify factors affecting ratings and develop predictive models.
 
+Three machine learning models were developed, with the K-Nearest Neighbor (KNN) model using 10 neighbors performing best, accounting for 67% of rating variation. It utilized predictors such as average cost for two, number of votes, average review ranking, online order availability, and table booking availability. The other two models were also effective but did not perform as well as KNN.
+
+Additionally, an unsupervised model categorized the restaurants into six types based on average cost, votes, review rankings, and table booking. Key insights indicate that table booking is crucial for customer satisfaction, while cost remains a significant concern. To enhance customer perceptions, restaurants should focus on improving review rankings and votes, providing a foundation for targeted strategies to boost decision-making and profitability.. |
 
 ***
 

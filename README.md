@@ -20,6 +20,7 @@ Explore my data portfolio, where I provide an overview of my work and projects w
 
 | Project Link | Area of Analysis | Completion Date | 
 |---|---|---|
+|👥 [Customer Segmentation](https://github.com/dk326/Customer-segmentation-and-behaviour-)| The project analyzed customer behavior for an online news provider, comparing gold and non-gold members' communication preferences and spending. It also examined technology usage across segments I created, such as age, tenure, gender, and state, using SQL. | 2024 |
 |🛍️ [RFM analysis](https://github.com/dk326/Product-performance-and-RFM/tree/main)| The project analyzed data from a hypothetical organization selling online news items to address business questions related to customer buying behaviors and product performance. Using the RFM model, customers were categorized into five segments. SQL queries were run on google's bigquery platform. | 2024 |
 
 ***

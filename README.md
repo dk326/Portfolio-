@@ -43,5 +43,5 @@ Explore my data portfolio, where I provide an overview of my work and projects w
 
 | Project Link | Project Description | Tools | Comletion Date|
 |---|---|---|---|
-|WIP| WIP | Excel, Solver | 2024|
+|[Portfolio Optimisation](https://github.com/dk326/Portfolio-Optimisation-)| This project was done as an assessment for the unit Decision modelling. The excel spreadsheet was developed to build and optimisation model subject to certain criteria. The optimization techniques used are Linear Programming and sensitivity analysis, Integer Linear Programming and Non-Linear Programming. The project also uses real stock market data.| Excel, Solver | 2024|
 |WIP| WIP | Excel, Solver | 2024|

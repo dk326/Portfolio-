@@ -5,7 +5,7 @@ Explore my data portfolio, where I provide an overview of my work and projects w
 ## 📚 Table of Contents
 - [Python](#Python)
 - [SQL](#sql)
-- [PowerBi](#PowerBi)
+- [Dashboards](#Dashboards])
 
 # Python
 
@@ -31,8 +31,9 @@ Explore my data portfolio, where I provide an overview of my work and projects w
 
 ***
 
-# PowerBi
+# Dashboards
 
-| Project Link | Project Description | Comletion Date|
-|---|---|---|
-|🛡️[Cyber Security Incident Dashboard](https://github.com/dk326/Cyber-Security-Incident-Responses/tree/main)| This project was my first PowerBi dashboard, developed as part of a first-year unit on business intelligence and databases. The project consists of three dashboards to monitor cycber security incidents of a hypothetical organisation. The three dashboards are tailored for different audienceses of the management, analysts and the response team.  | 2023 | 
+| Project Link | Project Description | Tools | Comletion Date|
+|---|---|---|---|
+|👑[Profitability Dashboard for Burrito King](https://github.com/dk326/Profitability-Dashboard-for-the-Chief-Marketing-Officer/tree/main)| This project was done as an assessment for the unit descriptive analytics. A dashboard is developed for a restaurant chain called burrito king. The target audience is the chief marketing officer. The purpose of the dashboard is to monitor profitability of products through different regions in Australia. The data was provided by my university. | Tableau, Wordpress | 2023|
+|🛡️[Cyber Security Incident Dashboard](https://github.com/dk326/Cyber-Security-Incident-Responses/tree/main)| This project was my first PowerBi dashboard, developed as part of a first-year unit on business intelligence and databases. The project consists of three dashboards to monitor cycber security incidents of a hypothetical organisation. The three dashboards are tailored for different audienceses of the management, analysts and the response team.  | Power Bi | 2023|
